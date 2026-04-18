@@ -253,5 +253,3 @@ This project is created for educational purposes as part of a web programming qu
 
 
 ---
-
-Built with ❤️ using React, Node.js, and Express.js
