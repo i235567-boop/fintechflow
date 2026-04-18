@@ -232,23 +232,23 @@ This project is created for educational purposes as part of a web programming qu
 
 ## Screenshots
 
-###Wallet Dashboard with animated balance
+### **Wallet Dashboard with animated balance**
 <img width="940" height="693" alt="image" src="https://github.com/user-attachments/assets/8b53c196-1641-4946-980f-4832db7f6a82" />
 
-###Transaction History with filters
+### Transaction History with filters
 <img width="927" height="804" alt="image" src="https://github.com/user-attachments/assets/6ef6cc6e-1184-4b19-b1f1-a1f34ef6bdbb" />
 
-###Multi-step Loan Application form
+### Multi-step Loan Application form
 <img width="919" height="838" alt="image" src="https://github.com/user-attachments/assets/2cad7cdc-becb-417b-897f-40d800e814bf" />
 
-###Loan Status cards with flip animation
+### Loan Status cards with flip animation
 <img width="922" height="734" alt="image" src="https://github.com/user-attachments/assets/8395c280-c474-4cc2-83c6-1585820436bf" />
 <img width="910" height="728" alt="image" src="https://github.com/user-attachments/assets/91a3fddc-8748-413c-afd6-fa25207f8e89" />
 
-###EMI Calculator with amortization table
+### EMI Calculator with amortization table
 <img width="604" height="756" alt="image" src="https://github.com/user-attachments/assets/36c6740b-1584-4b30-9be6-2eb769780558" />
 
-###Dark mode demonstration
+### Dark mode demonstration
 <img width="921" height="696" alt="image" src="https://github.com/user-attachments/assets/c3bb09a0-7d15-429a-ae0c-351271bd59be" />
 
 
