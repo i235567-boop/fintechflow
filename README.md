@@ -215,26 +215,27 @@ const API_BASE_URL = 'https://your-backend-url.onrender.com/api';
 
 ## Student Information
 
-**Name:** [Your Name]  
-**Roll Number:** [Your Roll Number]  
+**Name:** Sumyyah Saeed  
+**Roll Number:** 23I-5567  
 **Project:** FintechFlow - Full Stack Personal Finance Manager  
 **Course:** Web Programming - BS Fintech
 
 ## Submission Links
 
-**GitHub Repository URL:** _________________________________________________________  
-**Frontend Live URL:** _________________________________________________________  
-**Backend Live URL:** _________________________________________________________
+**GitHub Repository URL:** https://github.com/i235567-boop/fintechflow  
+**Frontend Live URL:** https://fintechflow-mukt.vercel.app/  
+**Backend Live URL:** https://fintechflow-backend.onrender.com
 
 ## License
 
-This project is created for educational purposes as part of a web programming assignment.
+This project is created for educational purposes as part of a web programming quiz.
 
 ## Screenshots
 
 [Add screenshots of your application here after deployment]
 
-1. Wallet Dashboard with animated balance
+1. <img width="940" height="693" alt="image" src="https://github.com/user-attachments/assets/8b53c196-1641-4946-980f-4832db7f6a82" />
+
 2. Transaction History with filters
 3. Multi-step Loan Application form
 4. Loan Status cards with flip animation
