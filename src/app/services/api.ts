@@ -1,5 +1,5 @@
 // Backend API URL - change this to your deployed backend URL
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://fintechflow-backend.onrender.com/api';
 
 // Wallet API calls
 export async function getWallet() {
